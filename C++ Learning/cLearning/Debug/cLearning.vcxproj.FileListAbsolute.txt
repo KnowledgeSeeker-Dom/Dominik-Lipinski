@@ -1,0 +1,2 @@
+C:\Users\Lucky Luke\source\repos\cLearning\Debug\cLearning.exe
+C:\Users\Lucky Luke\source\repos\cLearning\Debug\cLearning.pdb
