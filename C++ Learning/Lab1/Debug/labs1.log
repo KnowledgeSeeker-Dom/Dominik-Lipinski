@@ -1,0 +1,4 @@
+﻿  labs1.cpp
+C:\Users\Lucky Luke\source\repos\labs1\labs1.cpp(38,18): warning C4805: '==': unsafe mix of type 'bool' and type 'int' in operation
+C:\Users\Lucky Luke\source\repos\labs1\labs1.cpp(151,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  labs1.vcxproj -> C:\Users\Lucky Luke\source\repos\labs1\Debug\labs1.exe
